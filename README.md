@@ -5,7 +5,7 @@ I am Kevin Xu
 - ✨ Demo Links
   * Blocky Calendar https://pandapandapanda.github.io/blocky-calendar/
   * Battleship https://github.com/PandaPandaPanda/battleship-gui
-  * Time Selector https://codesandbox.io/s/time-selector-react-jxuc8o?file=/package.json
+  * Time Selector UI Component https://codesandbox.io/s/time-selector-react-jxuc8o?file=/package.json
   * Mini-Gerrit https://pandapandapanda.github.io/opendev/
   * OCR-Online https://ocronline.netlify.app/
   * Minimalistic Website http://www.yuxiangxu.me/
