@@ -5,10 +5,7 @@ I am Kevin Xu
 - ✨ Demo Links
   * Blocky Calendar https://pandapandapanda.github.io/blocky-calendar/
   * Battleship https://github.com/PandaPandaPanda/battleship-gui
-  * Time Selector UI Component https://codesandbox.io/s/time-selector-react-jxuc8o?file=/package.json
   * Mini-Gerrit https://pandapandapanda.github.io/opendev/
-  * OCR-Online https://ocronline.netlify.app/
-  * Minimalistic Website http://www.yuxiangxu.me/
 
 <!--
 **PandaPandaPanda/PandaPandaPanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
