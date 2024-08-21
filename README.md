@@ -1,7 +1,7 @@
 ## Welcome 👋
 I am Kevin Xu
 - 🔭 I’m currently working on Blocky Calendar
-- 💻 Snowflake, SAP, MentumQR, Bytedance
+- 💻 Apple, Snowflake, SAP, MentumQR, Bytedance
 - ✨ Demo Links
   * Blocky Calendar https://pandapandapanda.github.io/blocky-calendar/
   * Battleship https://github.com/PandaPandaPanda/battleship-gui
