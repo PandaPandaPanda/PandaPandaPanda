@@ -6,7 +6,7 @@ I am Kevin Xu
   * Blocky Calendar https://pandapandapanda.github.io/blocky-calendar/
   * Battleship https://github.com/PandaPandaPanda/battleship-gui
   * Mini-Gerrit https://pandapandapanda.github.io/opendev/
-  * Time Selector UI Component https://codesandbox.io/p/devbox/tender-bush-jxuc8o?file=%2Fpackage.json
+  * Time Selector UI Component https://codesandbox.io/p/devbox/tender-bush-jxuc8o?file=%2Fpackage.json (run 'npm start' at console)
 <!--
 **PandaPandaPanda/PandaPandaPanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
